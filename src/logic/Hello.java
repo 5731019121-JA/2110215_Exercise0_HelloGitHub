@@ -26,6 +26,7 @@ public class Hello {
 					int tmp=array[j];
 					array[j]=array[j+1];
 					array[j+1]=tmp;
+					int blan;
 				}
 			}
 		}
